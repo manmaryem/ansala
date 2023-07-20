@@ -20,4 +20,6 @@
 
 6. **Gestion d’abonnements :**
    - Pour gérer les abonnements, on clique sur "Abonnements" dans le menu de gauche. C’est conseiller de les organiser par catégories, on marque quelque flux en prioritaires, ou supprimer si on veut plus suivre.
+   - ### video explicative ###
 
+https://drive.usercontent.google.com/download?id=1LpcHoigslisfyxtplpQRGRSWgVfJeBNU&export=download&authuser=0&confirm=t&uuid=2abc5011-eb47-4a41-8cfe-08407d58e501&at=AC2mKKQ5zhwD18SVBxmcxtTYoHg_:1689864591893
